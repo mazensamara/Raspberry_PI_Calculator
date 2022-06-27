@@ -1,7 +1,7 @@
 # For using a membrane keypad (4x4) with i2c lcd on  Raspberry Pi 4B to run a calculator
 
 # A module to control Raspberry Pi GPIO channels
-# use the following command: pip install RPi.GPIO
+# use the following command: sudo pip install RPi.GPIO
 
 # Define lcd (Need to install rpi_lcd on Raspberry pi)
 # First Command: wget https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/python/lcd_i2c.py
